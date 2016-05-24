@@ -11,3 +11,7 @@ Contribution Guide
 
 - Users should be able to navigate the page only with keyboard.
 - Outlines of input forms shouldn't be disabled.
+
+### Mobile
+
+- Any elements that behave as input on mobile should have at least 40 px height, 44 px recommended.
